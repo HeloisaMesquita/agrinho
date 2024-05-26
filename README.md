@@ -22,3 +22,4 @@ Para Executar
 * digitar npm run dev (para executar o projeto e subir o localhost para vizualziar o site)
     (será algo parecido com: http://localhost:5173/)
 
+

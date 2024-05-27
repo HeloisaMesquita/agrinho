@@ -1,0 +1,28 @@
+#gameover {
+    text-align: center;
+    max-width: 750px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(25, 146, 21, 0.6);
+    border-radius: 1rem;
+    box-shadow: 0px 0px 10px #000;
+    backdrop-filter: blur(10px);
+    align-items: center;
+    padding: 2rem;
+}
+
+#gameover h2,
+#gameover p {
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#gameover p {
+    color: #8435de;
+}
+
+#gameover img {
+    margin: 2rem;
+    width: 200px;
+}

@@ -21,6 +21,4 @@ Para Executar
 * digitar npm i (para baixar/atualizar todas dependencias do projeto)
 * digitar npm run dev (para executar o projeto e subir o localhost para vizualziar o site)
     (será algo parecido com: http://localhost:5173/)
-
-
-.. teste de push...
+	

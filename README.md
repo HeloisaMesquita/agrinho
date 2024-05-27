@@ -23,4 +23,4 @@ Para Executar
     (será algo parecido com: http://localhost:5173/)
 
 
-.. teste de push..
+.. teste de push...
